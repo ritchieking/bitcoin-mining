@@ -1,0 +1,7 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+	<path fill="#B3B3B3" d="M4,5v8h10V5H4z M13,12H5V6h8V12z"/>
+	<line fill="#B3B3B3" x1="2" y1="3" x2="12" y2="3"/>
+	<rect x="2" y="3" fill="#B3B3B3" width="1" height="8"/>
+	<rect x="3" y="3" fill="#B3B3B3" width="10" height="1"/>
+</svg>

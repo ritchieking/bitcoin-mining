@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="13" y="11" width="14" height="18">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<path fill="#FFFFFF" d="M27,26.799C27,28.01,26.01,29,24.799,29h-9.598C13.991,29,13,28.01,13,26.799v-3.078
+		c0-1.211,0.546-2.543,1.214-2.961S16.419,20,17.63,20h4.815c1.211,0,2.73,0.342,3.378,0.76S27,22.51,27,23.721V26.799z"/>
+	<path d="M19.864,18.511c-2.205,0-3.108,2.069-2.006,4.598c1.102,2.528,2.906,2.528,4.009,0
+		C22.971,20.58,22.069,18.511,19.864,18.511z"/>
+	<path fill="#FFFFFF" d="M19.861,20.411c-0.172,0-0.999,0.175-1.956-0.93c-0.955-1.105-1.314-4.518-1.314-4.518
+	c0-3.537,3.271-3.664,3.271-3.664s3.274,0.127,3.274,3.664c0,0-0.359,3.413-1.316,4.518S20.038,20.411,19.861,20.411z"/>
+</svg>
